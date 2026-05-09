@@ -34,4 +34,4 @@ Run the notebook top to bottom. Change `TICKER`, `START_DATE`, and `END_DATE` at
 
 - [RSI (Investopedia)](https://www.investopedia.com/terms/r/rsi.asp)
 - [Breakout Trading (Investopedia)](https://www.investopedia.com/terms/b/breakout.asp)
-- [Momentum Trading (Investopedia)](https://www.investopedia.com/terms/m/momentum_trading.asp)
+- [Momentum Trading (Investopedia)](https://www.investopedia.com/terms/m/momentum.asp)
